@@ -2,7 +2,7 @@
   <img
     src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643"
     alt="GIF"
-    width="500"
+    width="300"
   >
 </p>
 
