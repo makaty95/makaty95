@@ -13,9 +13,7 @@
       >
     </td>
     <td style="border: 0; padding: 0 10px;">
-      <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&vCenter=true&width=480&height=60&lines=I'm+Mohamed;Software+Engineer;Learning+Backend+Development">
-      </a>
     </td>
   </tr>
 </table>
