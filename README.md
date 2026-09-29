@@ -1,10 +1,16 @@
+<p align="center">
+  <img
+    src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643"
+    alt="GIF"
+    width="500"
+  >
+</p>
+
 <h1 align="center">Hi, I'm Mohamed</h1>
-<h3 align="center">Aspiring Software Engineer (Backend)</h3>
+<h3 align="center">Aspiring Software Engineer</h3>
 
 
-- 🌱 Currently learning **Spring, Angular**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Reach me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohamedmakaty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamedmakaty" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/makaty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="makaty" height="30" width="40" /></a>
