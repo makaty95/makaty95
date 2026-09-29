@@ -31,9 +31,9 @@
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=makaty95&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
+</p> -->
 
 
 <p align="center">
